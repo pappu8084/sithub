@@ -7,7 +7,7 @@
 }
 
 .container{
-    height: 300px;
+    height: 100vh;
     background-image: url(bg.jpg);
      background-size: cover;
     background-repeat: no-repeat;
