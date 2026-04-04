@@ -770,15 +770,11 @@ img[alt="pappukumar"]{border-radius: 50px;}
 
 
 
- /* background-image: url(bg.jpg);
-     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center; */
 
 .footer-image{
-    height: 300px;       
+    height: 400px;       
     width: 100%;
-   background-image: url('footer-bg.webp');
+   background-image: url(footer-bg.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
