@@ -7,7 +7,7 @@
 }
 
 .container{
-    height: 110vh;
+    height:600px;
     background-image: url(bg.jpg);
      background-size: cover;
     background-repeat: no-repeat;
@@ -772,7 +772,7 @@ img[alt="pappukumar"]{border-radius: 50px;}
 
 
 .footer-image{
-    height: 600px;       
+    height: ;       
      width: 100%;
    background-image: url(footer-bg.webp);
     background-position: center center;
