@@ -9,6 +9,7 @@
 .container{
     height: 118vh;
     background-image: url(bg.jpg);
+     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
 
