@@ -774,7 +774,7 @@ img[alt="pappukumar"]{border-radius: 50px;}
 
 .footer-image{
     height:100vh;
-    background-image: url(/main/footer-bg.webp);
+    background-image: url('footer-bg.webp');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
