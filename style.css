@@ -642,7 +642,7 @@ img[alt="photowebp"]{
     padding-bottom: 50px;
 }
 .last-back-img{
-    background-image: url(/311.webp);
+    background-image: url('311.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
