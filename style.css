@@ -415,14 +415,13 @@ img[alt="firstfirst"]{
 
 
 
-.hero-hero{
-    width:100%;
-    height:200px;
-    background-image:url(contactbg (2).webp);
+.hero-hero {
+    width: 100%;
+    height: 200px;
+    background-image: url('contact-bg.webp'); 
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:center center;
-    
+    background-position: center center;
 }
 .first-hero{
     width: 80%;
